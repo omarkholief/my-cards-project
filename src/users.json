@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mustafa Zidan",
+    "role": "Web Developer",
+    "image": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Omar Ibrahim",
+    "role": "Web Developer",
+    "image": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "name": "Adham Mahmoud",
+    "role": "Designer",
+    "image": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 4,
+    "name": "Ahmed Ali",
+    "role": "Game Development",
+    "image": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 5,
+    "name": "Amal Hamada",
+    "role": "DevOps",
+    "image": "https://i.pravatar.cc/150?img=5"
+  }
+]
